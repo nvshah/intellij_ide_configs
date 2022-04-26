@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="1a7afa67-990b-416f-87a9-20f6aa4f7d65" name="nipun-solutelabs">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
